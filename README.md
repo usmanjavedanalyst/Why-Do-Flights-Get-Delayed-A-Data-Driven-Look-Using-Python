@@ -2,11 +2,11 @@
 
 A Python-based aviation data analysis project that explores flight delay patterns across airlines, airports, and time periods. The project focuses on cleaning real-world data, identifying trends, and presenting insights clearly.
 
-Skills & Tools
+## Skills & Tools
 
 Python, Pandas, NumPy, Jupyter Notebook
 
-What I Did
+## What I Did
 
 Cleaned and prepared aviation delay data
 
@@ -16,11 +16,11 @@ Analyzed delay trends by airline, airport, and time
 
 Visualized key insights for clarity
 
-Outcome
+## Outcome
 
 Improved understanding of aviation analytics, data handling, and insight-driven analysis using Python.
 
-About Me
+## About Me
 
 Computer Science student building practical data analysis projects.
 Open to internships, freelance, and outsourced data projects.
